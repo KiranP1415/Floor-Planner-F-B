@@ -93,7 +93,8 @@ Sample API Endpoints:
 
 1️⃣ User Registration
 
-Endpoint: GET [/api/users/register](http://localhost:5000/api/floorplan)
+Endpoint: GET [/api/users/register]
+(http://localhost:5000/api/floorplan)
 
 Body: (JSON)    
 {
