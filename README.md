@@ -68,7 +68,13 @@ The backend will run on ``.
 
 Check if the server is running: Open a browser and go to:
 
-http://localhost:5000/api/status
+http://localhost:5000
+
+The Frontend will run on ``.
+
+Check if the server is running: Open a browser and go to:
+
+http://localhost:3000
 
 You should see a response confirming the server is running.
 
